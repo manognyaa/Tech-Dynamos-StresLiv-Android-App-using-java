@@ -3,7 +3,6 @@
    ### Team Members
        Mahesh Dasika - mahesh.20bci7075@vitap.ac.in
        Manognya Dasika - manognya.20bcr7053@vitap.ac.in
-       Pratik Nagalgave - baswaraj.20bcd7113@vitap.ac.in
        
  ### What you do when you feel stressed ❓
  
